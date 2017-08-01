@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EvalSemana3_SteveSilva</string>
+    <string name="app_msj_bienvenida">Bienvenido</string>
+    <string name="app_button_name">Entrar</string>
+</resources>
